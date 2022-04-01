@@ -1,0 +1,103 @@
+/*ejercicio imput
+
+ej1
+
+*{
+    background-color: red;
+}
+
+ej2
+
+p{
+    color: blue;
+}
+
+ej3
+
+#title-1{
+    color: green;
+}
+
+ej4
+
+main .bg-yellow{
+    color: yellow;
+}
+
+ej5
+
+[id]{
+    color:red;
+}
+
+ej6
+
+[id="title-1"] {
+    color: blue;
+}
+
+ej7
+[href="https://www.yahoo.com"]{
+    background-color: green;
+}
+
+ej8
+
+[class|="title"]{
+    background-color: blueviolet;
+}
+
+ej9
+
+[href$=".com"]{
+    background-color: red;
+}
+
+ej10
+
+[class^="title"]{
+    background-color: red;
+}
+
+ej11
+
+[href*="127"]{
+    background-color: red;
+}
+
+ej12
+
+[href^="http"]{
+    background-color: green;
+}
+
+ej13
+
+a, p, h1{
+    background-color: red;
+}
+
+ej14
+
+main p{
+    background-color: red;
+}
+
+ej15
+
+h1 + * {
+    background-color: red;
+}
+
+ej16
+
+h1 ~ * {
+    background-color: red;
+}
+
+ej17
+
+main > *{
+    background-color: red;
+}
+*/
